@@ -11,7 +11,7 @@ I have 22+ years of experience designing and delivering enterprise applications 
 * Microservices Architecture
 * React, Vue.js & Angular
 * Python & FastAPI
-* AI, LLMs & RAG Solutions
+* Integrations with AI, LLMs & RAG
 * Docker & Kubernetes
 * SQL Server, Oracle & PostgreSQL
 
