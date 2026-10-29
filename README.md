@@ -1,16 +1,46 @@
-## Hi there 👋
+### Hi, I'm Bheema Sankar Maruvada 👋
 
-<!--
-**Bheemas/Bheemas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Architect | Senior developer | AI & Cloud Transformation Leader
 
-Here are some ideas to get you started:
+I have 22+ years of experience designing and delivering enterprise applications across Banking, Financial Services, Healthcare, and Telecommunications domains.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Expertise
+
+* .NET & ASP.NET Core
+* Microsoft Azure
+* Microservices Architecture
+* React, Vue.js & Angular
+* Python & FastAPI
+* AI, LLMs & RAG Solutions
+* Docker & Kubernetes
+* SQL Server, Oracle & PostgreSQL
+
+## 🌟 Current Focus
+
+* Agentic AI Applications
+* Cloud Transformation
+* Enterprise Modernization
+* AI-Powered Knowledge Systems
+* Cybersecurity & Secure Development
+
+## 🎵 Featured Project
+
+### RagaNidhi
+AI-powered platform for Indian Classical Music learning and discovery.
+
+Website: [https://raganidhi.com](https://raganidhi.com)
+
+## 🏆 Certifications
+
+* Microsoft Certified AI-200
+* Microsoft Azure Fundamentals
+* Microsoft Certified Professional (MCP)
+
+## 🌐 Connect With Me
+
+* GitHub: [https://github.com/Bheemas](https://github.com/Bheemas)
+* LinkedIn: [https://www.linkedin.com/in/bheema-shankar-maruvada-350ab610/](https://www.linkedin.com/in/bheema-shankar-maruvada-350ab610/)
+* Website: [https://raganidhi.com](https://raganidhi.com)
+
+---
+*Building intelligent, scalable, and impactful solutions through Cloud, AI, and Modern Software Engineering.*
